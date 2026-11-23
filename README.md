@@ -31,6 +31,9 @@ O preenchimento desta seção é **obrigatório**. Cada integrante deve aparecer
 | Integrante | GitHub | Responsabilidades planejadas | Entregas efetivamente realizadas | Evidências (commits/PRs) |
 |---|---|---|---|---|
 | [Kaiky Veríssimo Ferreira] | [@https://github.com/kaikyverissimo] | [Ex.: RF 1-7] | [Preencher após implementação] | [Links para commits/PRs] |
+| [Kleber Lourenço Ferreira Machado] | [@https://github.com/klferreiraM] | [Ex.:] | [Preencher após implementação] | [Links para commits/PRs] |
+| [Isaque Alves Pereira] | [@https://github.com/isaquealves-glitch] | [Ex.:] | [Preencher após implementação] | [Links para commits/PRs] |
+| [Antônio Emanuel Silva Rodrigues] | [@https://github.com/AntonioEmanuel] | [Ex.:] | [Preencher após implementação] | [Links para commits/PRs] |
 
 > Ajuste a quantidade de linhas ao número real de integrantes. **Planejamento não equivale a comprovação de autoria.** A avaliação individual considerará as alterações efetivas e a capacidade de explicá-las. A distribuição acima é apenas ilustrativa; não há obrigação de manter essas atribuições.
 

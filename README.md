@@ -30,13 +30,7 @@ O preenchimento desta seção é **obrigatório**. Cada integrante deve aparecer
 
 | Integrante | GitHub | Responsabilidades planejadas | Entregas efetivamente realizadas | Evidências (commits/PRs) |
 |---|---|---|---|---|
-| [Nome 1] | [@usuario1 — substituir] | [Ex.: cadastro de veículos — RF01] | [Preencher após implementação] | [Links para commits/PRs] |
-| [Nome 2] | [@usuario2 — substituir] | [Ex.: cadastro de clientes — RF02] | [Preencher após implementação] | [Links para commits/PRs] |
-| [Nome 3] | [@usuario3 — substituir] | [Ex.: locações — RF04] | [Preencher após implementação] | [Links para commits/PRs] |
-| [Nome 4] | [@usuario4 — substituir] | [Ex.: regras de cálculo — RF05] | [Preencher após implementação] | [Links para commits/PRs] |
-| [Nome 5] | [@usuario5 — substituir] | [Ex.: devolução e consultas — RF06/RF07] | [Preencher após implementação] | [Links para commits/PRs] |
-| [Nome 6] | [@usuario6 — substituir] | [Ex.: exceções e validações] | [Preencher após implementação] | [Links para commits/PRs] |
-| [Nome 7] | [@usuario7 — substituir] | [Ex.: documentação e integração; também contribuir no código] | [Preencher após implementação] | [Links para commits/PRs] |
+| [Kaiky Veríssimo Ferreira] | [@https://github.com/kaikyverissimo] | [Ex.: RF 1-7] | [Preencher após implementação] | [Links para commits/PRs] |
 
 > Ajuste a quantidade de linhas ao número real de integrantes. **Planejamento não equivale a comprovação de autoria.** A avaliação individual considerará as alterações efetivas e a capacidade de explicá-las. A distribuição acima é apenas ilustrativa; não há obrigação de manter essas atribuições.
 
